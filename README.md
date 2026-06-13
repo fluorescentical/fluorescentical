@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats-fast.vercel.app/api?username=mlgmxyysd&show_icons=true&hide_border=true&icon_color=000&title_color=000&show=prs_merged_percentage&include_all_commits=true&custom_title=FTeam&count_private=true">
+
 
 # swagger.json (fluorescentical) 
 
